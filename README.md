@@ -30,4 +30,4 @@ streamlit run main.py
 ```
 
 Browse the UI like this :
-![alt text](https://github.com/rochiekop/MovieRecommenderSystem/master/img/main.PNG)
+![alt text](https://github.com/rochiekop/MovieRecommenderSystem/blob/master/img/main.PNG)
